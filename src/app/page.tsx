@@ -5,7 +5,7 @@ import Pricing from "./Pricing/page";
 import Contact from "./contact/page";
 import About from "./about/page";
 
-const App = () => {
+const Page = () => {
   return (
     <div>
       <Home />
@@ -17,4 +17,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Page;

@@ -1,5 +1,5 @@
 import React from "react";
-import allData from "../allData/page";
+import allData from "../../allData/page";
 
 const Pricing = () => {
   const { pricing } = allData;
